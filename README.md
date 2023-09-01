@@ -8,5 +8,5 @@ It is based on the following theses:
 
 - Antje Loyal: [Maschinelles Lernen angewendet auf Bilder antiker Münzen](http://www.bigdata.uni-frankfurt.de/wp-content/uploads/2021/11/Masterarbeit_Antje_Loyal.pdf)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Frankfurt-BigDataLab/IR-for-emperors/blob/main/Colab/IR-for-emperors.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frankfurt-BigDataLab/IR-for-emperors/blob/main/Colab/IR-for-emperors.ipynb)
 
