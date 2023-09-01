@@ -1,4 +1,4 @@
-# IR-for_emperors
+# IR-for-emperors
 This is an Image Recognition approach for predicting roman emperors and empresses on ancient coins.
 This approach runs as Colab notebook. You can try our approach for yourself with it. If you have any problems or suggestions, please feel free to contact us.
 
